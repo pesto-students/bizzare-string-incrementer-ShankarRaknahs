@@ -37,7 +37,7 @@ function pad(number, length) {
 
 
 
-
+/* 
 console.log('foo -->', bizarreStringIncrementer('foo'));
 console.log('foo23 -->', bizarreStringIncrementer('foo23'));
 console.log('foo0041 -->', bizarreStringIncrementer('foo0041'));
@@ -46,4 +46,7 @@ console.log('foo099 -->', bizarreStringIncrementer('foo099'));
 console.log('f99oo -->', bizarreStringIncrementer('f99oo'));
 console.log('f99oo23 -->', bizarreStringIncrementer('f99oo23'));
 console.log('f99oo099 -->', bizarreStringIncrementer('f99oo099'));
-console.log('f99oo0099 -->', bizarreStringIncrementer('f99oo0099'));
+console.log('f99oo0099 -->', bizarreStringIncrementer('f99oo0099')); */
+
+
+module.exports = bizarreStringIncrementer;
