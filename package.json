@@ -1,0 +1,22 @@
+{
+  "name": "bizzare-string-incrementer-shankarraknahs",
+  "version": "1.0.0",
+  "description": "bizarre sting incrementer",
+  "main": "bizarreStringIncrementer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesto-students/bizzare-string-incrementer-ShankarRaknahs.git"
+  },
+  "author": "Shankar @ Pesto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesto-students/bizzare-string-incrementer-ShankarRaknahs/issues"
+  },
+  "homepage": "https://github.com/pesto-students/bizzare-string-incrementer-ShankarRaknahs#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
